@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# */AIPND-revision/intropyproject-classify-pet-images/get_pet_labels.py
 #                                                                             
 # PROGRAMMER: Paul Badu Yakubu
 # DATE CREATED: 05/21/2024                                 
